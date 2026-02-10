@@ -30,20 +30,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Zig** 
 
-```text
-Zig                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C++                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-```
-
-
-
-
- Last Updated on 10/02/2026 15:14:59 UTC
+ Last Updated on 10/02/2026 15:23:06 UTC
 <!--END_SECTION:waka-->
 
 ## Contact and Links
