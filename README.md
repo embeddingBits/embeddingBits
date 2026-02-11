@@ -13,7 +13,7 @@
 - [Software and Tech Stack that I like and use](https://embeddingbits.is-a.dev/software)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,17 +21,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        10 mins             █████████░░░░░░░░░░░░░░░░   36.88 % 
+Python                   8 mins              ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+C++                      6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Zig                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    29 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/02/2026 17:25:05 UTC
+ Last Updated on 11/02/2026 02:44:52 UTC
 <!--END_SECTION:waka-->
 
 ## Contact and Links
