@@ -13,7 +13,7 @@
 - [Software and Tech Stack that I like and use](https://embeddingbits.is-a.dev/software)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,11 +21,11 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
+C                        1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.94 % 
 C++                      1 hr                ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-SystemVerilog            43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
 Typst                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-C                        38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 Python                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+SystemVerilog            14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 🔥 Editors: 
 Neovim                   3 hrs 58 mins       █████████████████████████   100.00 % 
@@ -35,7 +35,7 @@ Linux                    3 hrs 58 mins       ███████████�
 ```
 
 
- Last Updated on 18/02/2026 01:53:30 UTC
+ Last Updated on 19/02/2026 01:52:29 UTC
 <!--END_SECTION:waka-->
 
 ## Contact and Links
