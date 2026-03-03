@@ -13,7 +13,7 @@
 - [Software and Tech Stack that I like and use](https://embeddingbits.is-a.dev/software)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2016%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,21 +21,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-C                        53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-Zig                      39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Lua                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+C                        57 mins             ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Zig                      39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+C++                      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Lua                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 45 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/03/2026 01:49:20 UTC
+ Last Updated on 03/03/2026 01:51:49 UTC
 <!--END_SECTION:waka-->
 
 ## Contact and Links
