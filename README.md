@@ -21,21 +21,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        57 mins             ████████░░░░░░░░░░░░░░░░░   33.63 % 
-Zig                      36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-C++                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Lua                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+C                        57 mins             ████████░░░░░░░░░░░░░░░░░   31.24 % 
+Zig                      36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+SystemVerilog            22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Lua                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 51 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 51 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2026 01:45:36 UTC
+ Last Updated on 05/03/2026 01:48:37 UTC
 <!--END_SECTION:waka-->
 
 ## Contact and Links
