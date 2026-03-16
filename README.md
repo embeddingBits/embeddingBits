@@ -13,7 +13,7 @@
 - [Software and Tech Stack that I like and use](https://embeddingbits.is-a.dev/software)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2055%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,22 +21,22 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      3 hrs 4 mins        ██████████████████████░░░   89.91 % 
-C                        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-SystemVerilog            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+C++                      45 mins             ███████████░░░░░░░░░░░░░░   45.30 % 
+sh                       13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+C                        6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 22 mins       █████████████████████████   98.96 % 
-Emacs                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Neovim                   1 hr 38 mins        ████████████████████████░   97.90 % 
+Emacs                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 💻 Operating System: 
-Linux                    3 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/03/2026 02:00:47 UTC
+ Last Updated on 16/03/2026 02:02:53 UTC
 <!--END_SECTION:waka-->
 
 ## Contact and Links
