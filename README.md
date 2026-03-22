@@ -21,22 +21,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       13 mins             ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-Python                   11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Org                      9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Emacs Lisp               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+sh                       13 mins             ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+Python                   11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Org                      9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Emacs Lisp               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🔥 Editors: 
-Neovim                   47 mins             ████████████████████████░   95.72 % 
-Emacs                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Neovim                   47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    49 mins             █████████████████████████   100.00 % 
+Linux                    47 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/03/2026 01:43:35 UTC
+ Last Updated on 22/03/2026 01:54:55 UTC
 <!--END_SECTION:waka-->
 
 ## Contact and Links
