@@ -21,21 +21,20 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      25 mins             ████████░░░░░░░░░░░░░░░░░   33.25 % 
-Bash                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Makefile                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-sh                       9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-C                        7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+C++                      25 mins             ██████████████████████░░░   89.38 % 
+C                        1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+sh                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+SystemVerilog            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-Neovim                   1 hr 15 mins        █████████████████████████   100.00 % 
+Neovim                   28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
+Linux                    28 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/04/2026 02:09:54 UTC
+ Last Updated on 02/04/2026 01:57:45 UTC
 <!--END_SECTION:waka-->
 
 ## Contact and Links
