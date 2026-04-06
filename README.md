@@ -21,21 +21,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      34 mins             ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-lyrics                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-kdl                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-RON                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+C++                      34 mins             ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+lyrics                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+kdl                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+RON                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 
 🔥 Editors: 
-Neovim                   1 hr 57 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 58 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 57 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/04/2026 02:04:49 UTC
+ Last Updated on 06/04/2026 02:06:14 UTC
 <!--END_SECTION:waka-->
 
 ## Contact and Links
