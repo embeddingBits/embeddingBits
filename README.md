@@ -12,32 +12,6 @@
 - C/C++, Golang, Verilog enjoyer :)
 - [Software and Tech Stack that I like and use](https://embeddingbits.is-a.dev/software)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2039%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-kdl                      38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-sh                       35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Zig                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-C++                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-lyrics                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-
-🔥 Editors: 
-Neovim                   3 hrs 17 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    3 hrs 17 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 08/04/2026 02:03:09 UTC
-<!--END_SECTION:waka-->
-
 ## Contact and Links
 
 - **Mail:** tspamiitesh@gmail.com  
