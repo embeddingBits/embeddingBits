@@ -1,9 +1,3 @@
-<div align="center">
-
-*Wonder is the beginning of wisdom.* — *Socrates*
-
-</div>
-
 ## About Me
 
 - I'm an electronics engineer and I predominantly work with embedded systems, low-level programming, and VLSI
