@@ -1,9 +1,9 @@
 ## About Me
 
 - I'm an electronics engineer and I predominantly work with embedded systems, low-level programming, and VLSI
-- I'm an Arch Linux and an Emacs user
+- I'm an Arch Linux and an Emacs/Neovim user
 - I explore and advocate FOSS and also contribute to some of my favourites
-- C/C++, Golang, Verilog enjoyer :)
+- C/C++, Golang, Zig and Verilog enjoyer :)
 - [Software and Tech Stack that I like and use](https://embeddingbits.is-a.dev/software)
 
 ## Contact and Links
