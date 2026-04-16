@@ -15,3 +15,5 @@
 - **Mastodon:** https://mastodon.social/@ebits  
 - **Matrix:** [@embeddingbits:matrix.org](https://matrix.to/#/@embeddingbits:matrix.org)  
 - **Fossunited:** https://fossunited.org/u/ebits
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=embeddingbits&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
