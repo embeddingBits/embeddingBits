@@ -1,5 +1,5 @@
 ## About Me
-- Electronics Engineer interested in working with embedded systems, VLSI and low-level programming
-- C, Zig and Golang
+- Electronics Engineer and I work with OS, low-level and VLSI
+- C, Zig,  Golang
 
 Moved to Codeberg: https://codeberg.org/embeddingbits
