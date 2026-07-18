@@ -1,5 +1,4 @@
-## About Me
-- Electronics Engineer and I work with OS, low-level, VLSI and systems programming
-- C, Zig,  Golang
+1. Electronics Engineer and I work with OS, low-level, VLSI, networks and systems programming
+2. C, Zig,  Golang
 
-Moved to Codeberg: https://codeberg.org/embeddingbits
+[website](https://embeddingbits.is-a.dev/) | [blog](https://embeddingbits.is-a.dev/tech)
